@@ -2,7 +2,7 @@
 
 This project is an AI-powered content generation platform designed to streamline the creation of written content for various purposes. The platform ensures an intuitive user experience with authentication, subscription-based access, and seamless AI-powered content generation.
 
-Features
+**Features**
 AI-generated content for various use cases.
 
 User authentication for secure access.
@@ -13,39 +13,38 @@ Clean and intuitive user interface.
 
 Scalable backend for efficient data handling.
 
-Installation & Setup
-Prerequisites
+
+**Installation & Setup**
+
+Prerequisites 
 Ensure you have the following installed:
 
-Node.js
-
-A package manager (npm or yarn)
-
-A database service (if applicable)
+1) Node.js
+2) A package manager (npm or yarn)
+3) A database service (if applicable)
 
 Installation
-sh
 git clone [your-repository-url]
 cd [your-project-directory]
 npm install
+
 Running the Project
-sh
 npm run dev
-Usage Guide
-Sign up or log in to access the platform.
 
-Select the type of content you want to generate.
 
-Input relevant details or prompts.
+**Usage Guide**
+1) Sign up or log in to access the platform.
 
-Generate and edit content as needed.
+2) Select the type of content you want to generate.
 
-Save, copy, or export the final output.
+3) Input relevant details or prompts.
 
-Deployment
-This project is deployed using a cloud hosting service for high availability and scalability.
+4) Generate and edit content as needed.
 
-Contributing
+5) Save, copy, or export the final output.
+
+
+**Contributing**
 Feel free to fork this repository, submit pull requests, or suggest improvements. Contributions are always welcome!
 
 License
