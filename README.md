@@ -10,7 +10,6 @@
 * **User authentication for secure access**
 * **Subscription-based model for premium features**
 * **Clean and intuitive user interface**
-* **Scalable backend for efficient data handling**
 
 ---
 
@@ -52,5 +51,3 @@ npm run dev
 **Feel free to fork this repository, submit pull requests, or suggest improvements. Contributions are always welcome!**
 
 ---
-
-Would you like this saved as a downloadable `README.md` file?
