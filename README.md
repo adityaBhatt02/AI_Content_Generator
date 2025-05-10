@@ -2,6 +2,7 @@
 
 This project is an AI-powered content generation platform designed to streamline the creation of written content for various purposes. The platform ensures an intuitive user experience with authentication, subscription-based access, and seamless AI-powered content generation.
 
+
 #Features
 AI-generated content for various use cases.
 
